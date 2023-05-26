@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+We are Growing Up - as we aim to dematerialize childhood and discourage related consumption while ensuring optimal development of the future generation.
+
 <!--
 **growingup-se/growingup-se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
