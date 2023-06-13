@@ -1,18 +1,12 @@
-### Hi there 👋
+### Growing Up
 
-We are Growing Up - as we aim to dematerialize childhood and discourage related consumption while ensuring optimal development of the future generation.
 
-<!--
-**growingup-se/growingup-se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Our mission is to simplify good and environmentally friendly parenthood by making science accessible to parents.
+We believe that playtime can be optimised for cognitive development through science. Our solution is a digital platform for parents with children up to 5 years old. The platform gives access to parental guidance, playtime tips, and a tracking function. Through the Growing Up service, we aim to dematerialise fun and developing playtime.
 
-Here are some ideas to get you started:
+📫 How to reach us:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <a href = "mailto:info@growingup.se"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/company/growing-up-eu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
